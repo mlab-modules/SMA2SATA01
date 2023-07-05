@@ -11,5 +11,7 @@ images:
 - doc/img/SMA2SATA01A_QRcode.png
 - hw/sch_pcb/SMA2SATA.svg
 mark: 50
-tags: []
+tags:
+- mlab
+- mlab-module
 title: SMA2SATA01
