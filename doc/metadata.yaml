@@ -4,9 +4,9 @@ github_repo: SMA2SATA01
 github_url: https://github.com/mlab-modules/SMA2SATA01
 homepage: false
 images:
-- doc/img/SMA2SATA_small.jpg
 - doc/img/SMA2SATA_nest3.jpg
 - doc/img/SMA2SATA_nest1.jpg
+- doc/img/SMA2SATA_small.jpg
 - doc/img/SMA2SATA_nest2.jpg
 - doc/img/SMA2SATA01A_QRcode.png
 - hw/sch_pcb/SMA2SATA.svg
