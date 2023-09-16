@@ -12,6 +12,7 @@ images:
 - hw/sch_pcb/SMA2SATA.svg
 mark: 50
 status: 3
+replaced: SATABAL01
 tags:
 - mlab
 - mlab-module
