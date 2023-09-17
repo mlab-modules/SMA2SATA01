@@ -1,4 +1,6 @@
-description: null
+description: Converter from asymetric coaxial cable with SMA connector to cables with
+  SATA connectors. Converter is based on Ethernet signal transformer. Construction
+  of converter is bidirectional and allows balance to unbalance connections (balun).
 github_branch: SMA2SATA01A
 github_repo: SMA2SATA01
 github_url: https://github.com/mlab-modules/SMA2SATA01
